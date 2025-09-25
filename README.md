@@ -58,7 +58,18 @@ public class HelloWorld {
 > 산은 산이요 물은 물이로다.
 > <br>일찍 일어나는 벌레가 빨리 잡아먹힌다.
 
-
+### 깃 활용법
+ - 저장소 생성 : 원격(github) -> 로컬(pull)
+ - A 소스코드 수정
+ - git add * (staged로 변경)
+ - git commit -m "~~수정" (변경사항 커밋)
+ - -> 로컬
+ - git push (원격 저장소로~)
+ - git pull **(항상 시작 하기전에 하고 실행 해야한다)** 최신버전 기준으로 B컴에서 소스 수정
+ - git add * (staged로 변경)
+ - git commit -m "~~수정" (변경사항 커밋)
+ - -> 로컬
+ - git push (원격 저장소로 ~)
 
 
 
